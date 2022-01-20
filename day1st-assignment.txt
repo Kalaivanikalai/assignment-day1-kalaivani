@@ -1,0 +1,20 @@
+2) Write a blog on Difference between HTTP1.1 vs HTTP2 ? 
+* HTTP is a top-level application protocol that exchanges information between a client computer and a local or remote web server.
+* THE HTTP to protocol was designed to slove many issuse that the HTTP 1.1 Protocol is with modern websites.
+* HTTP 1.1  was introduced in 1997 web page at some HTML markup and perhaps an image or two nowday   webpages can contain hundreds of resources with images , font web style sheets etc., because HTTP 1.1 was not designed to endow such loads web developers have come up with a bunch of different texts to improve the load speed of page,this hex attempt reduce the number of HTTp requests to the server .
+* HTTP2 is much faster and more reliable than HTTP1. HTTP1 loads a single request for every TCP connection, while HTTP2 avoids network delay by using multiplexing. HTTP is a network delay sensitive protocol in the sense that if there is less network delay, then the page loads faster.
+       These are the high-level differences between HTTP1 and HTTP2:
+* HTTP2 is binary, instead of textual
+* HTTP2 is fully multiplexed, instead of ordered and blocking
+* HTTP2 can, therefore, use one connection for parallelism
+* HTP2 uses header compression to reduce overhead
+* HTTP2 allows servers to “push” responses proactively into client caches.
+ 3) Write a blog about objects and its internal representation in Javascript ? 
+* Objects, in JavaScript, is it’s most important data-type and forms the building blocks for modern JavaScript.
+* Objects in JavaScript, just as in many other programming languages, can be compared to objects in real life. The concept of objects in JavaScript can be understood with real life, tangible objects.
+* These objects are quite different from JavaScript’s primitive data-types(Number, String, Boolean, null, undefined and symbol).
+* Each object may contain any combination of these primitive data-types as well as reference data-types.
+An object, is a reference data type.
+4) codekata practice 
+		Input / output problems are sloved.
+
